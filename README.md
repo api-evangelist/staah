@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-STAAH provides cloud‑based hotel channel management, revenue management, booking engine, and online reputation tools that help hospitality businesses distribute inventory across 2000+ channels, optimise pricing, and drive direct bookings. The platform integrates with major GDS, OTAs, PMS and CRM systems, offering a unified dashboard for reservations, vouchers, and guest communications. STAAH is part of The Access Group, expanding its hospitality suite across APAC and Europe.
+STAAH provides cloud‑based hotel channel management, revenue management, booking engine, reputation management and voucher solutions. Their platform connects hospitality providers to over 2,000 distribution channels, global distribution systems and payment gateways, helping hotels increase direct bookings, optimize pricing and streamline operations across independent properties and hotel groups.
 
-**Areas:** Hospitality · SaaS · Channel Management · Revenue Management · Booking Engine
+**Areas:** Company · Hospitality · SaaS · Channel Management · Revenue Management
 
 ## STAAH on APIs.io
 
 Everything profiled for STAAH is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/staah/](https://apis.io/providers/staah/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [STAAH API](https://apis.io/apis/staah/staah-api/) — STAAH offers a cloud‑based hotel channel management and revenue platform; public machine‑readable API specifications were not found despite documentation pages.
 
 ### Published properties
 
@@ -91,26 +87,27 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://staah.com/)
-- [Documentation](https://help.staah.com/)
-- [Blog](https://blog.staah.com/featured/staah-was-a-gamechanger-for-g5-hotel-serviced-apartment)
+- [Website](https://www.staah.com/)
+- [Documentation](https://www.staah.com/resources/)
+- [Support](https://help-staah.theaccessgroup.com/en/)
+- [Blog](https://www.staah.com/blogs/)
 - [Terms of service](https://www.staah.com/terms-conditions/)
 - [Privacy policy](https://www.staah.com/privacy-policy/)
 
 ## API Evangelist rating
 
-**Kin Score 16.8** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 21.0** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 60.7 |
+| Discoverability | 51.8 |
 | Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 9.5 |
-| Developer ergonomics | 11.9 |
-| Access clarity | 27.7 |
+| Contract governance | 16.4 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 34.2 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 20.4** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -125,19 +122,19 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
 | Protected Resource Metadata | verified |
-| Dynamic Client Registration | yes |
+| Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/staah/](https://apis.io/providers/staah/).
 
