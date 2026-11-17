@@ -64,5 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-STAAH is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://staah.com/
+STAAH provides cloud‑based hotel channel management, revenue management, booking engine, and online reputation tools that help hospitality businesses distribute inventory across 2000+ channels, optimise pricing, and drive direct bookings. The platform integrates with major GDS, OTAs, PMS and CRM systems, offering a unified dashboard for reservations, vouchers, and guest communications. STAAH is part of The Access Group, expanding its hospitality suite across APAC and Europe.
+
+**Areas:** Hospitality · SaaS · Channel Management · Revenue Management · Booking Engine
+
+## STAAH on APIs.io
+
+Everything profiled for STAAH is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/staah/](https://apis.io/providers/staah/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [STAAH API](https://apis.io/apis/staah/staah-api/) — STAAH offers a cloud‑based hotel channel management and revenue platform; public machine‑readable API specifications were not found despite documentation pages.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [STAAH Domain Security](https://apis.io/security/staah/staah-domain-security/)
+- [STAAH Vulnerability Disclosure](https://apis.io/security/staah/staah-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://staah.com/)
+- [Documentation](https://help.staah.com/)
+- [Blog](https://blog.staah.com/featured/staah-was-a-gamechanger-for-g5-hotel-serviced-apartment)
+- [Terms of service](https://www.staah.com/terms-conditions/)
+- [Privacy policy](https://www.staah.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 16.8** — emerging · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 60.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 27.7 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/staah/](https://apis.io/providers/staah/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for STAAH: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/staah/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
